@@ -1,2 +1,2 @@
 # tdf
-Trainin Discussion Forum App
+Training Discussion Forum App
